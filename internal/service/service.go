@@ -6,13 +6,6 @@ import (
 	"github.com/Yandex-Practicum/go1fl-sprint6-final/pkg/morse"
 )
 
-type TextType = string
-
-const (
-	TEXT  TextType = "text"
-	MORSE TextType = "morse"
-)
-
 const (
 	DOT  = "."
 	DASH = "-"
